@@ -13,8 +13,8 @@
 
 .container{
     position: relative;
-    display: inline-flex;
-    gap: 100px;
+    display: flex;
+    gap: 10px;
     left: 200px;
 }
 
@@ -50,9 +50,6 @@
 
 #emailtext{
     color: white;
-    position: absolute;
-    top: 40px;
-    left: 1150px;
     font-family: 'Inter';
     font-weight: 700;
     font-size: 18px;
