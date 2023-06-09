@@ -1,7 +1,7 @@
 .box{
     background-color: transparent;
     padding: 10px;
-    position: absolute;
+    position: relative;
     top: 36px;
     left: 43px;
     width: 1320px;
@@ -12,11 +12,10 @@
 }
 
 .container{
-    position: absolute;
     display: flex;
-    gap: 240px;
-    left: 200px;
-    top: 40px;
+    gap: 230px;
+    margin-left: 200px;
+    margin-top: 30px;
 }
 
 #logo{
@@ -62,11 +61,13 @@ body{
 
 .blocos{
     color: white;
+    font-family: 'Montserrat';
+    font-weight: 400;
 }
 .inner-box{
     position: relative;
     background-color: transparent;
-    top: -10px;
+    top: -110px;
     left: -11px;
     border: 1px solid white;
     width: 115px;
