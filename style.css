@@ -82,15 +82,15 @@ body{
 #foto{
     float: right;
     position: absolute;
-    margin-left: 90%;
-    margin-top: 50%;
+    left: 782px;
+    top: 368px  ;
 }
 
 h1{
     
     position: absolute;
-    margin-left: 50%;
-    margin-top: 50%;
+    left: 240px;
+    top: 404px;
     float: left;
     font-size: 48px;
     color: white;
@@ -98,8 +98,8 @@ h1{
 
 #texto{
     position: absolute;
-    margin-left: 30%;
-    margin-top: 80%;
+    left: 240px;
+    top: 651px;
     float: left;
     font-size: 16px;
     color: white;
