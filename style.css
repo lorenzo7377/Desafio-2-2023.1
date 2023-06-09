@@ -1,0 +1,25 @@
+.box{
+    background-color: transparent;
+    padding: 10px;
+    position: absolute;
+    top: 30px;
+    width: 13200px;
+    height: 100px;
+    z-index: -1;
+    border: 1px solid white; /* Adiciona uma borda branca de 1px */
+
+}
+
+body{
+    background-color: #FF731A;
+}
+
+.inner-box{
+    position: relative;
+    background-color: transparent;
+    top: -10px;
+    left: -10px;
+    border: 1px solid white; /* Adiciona uma borda branca de 1px */
+    width: 100px;
+    height: 1320px;
+}
