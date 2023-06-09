@@ -73,3 +73,34 @@ body{
     width: 115px;
     height: 1320px;
 }
+
+.container2{
+    margin-top: 368px;
+    margin-left: 782px;
+}
+
+#foto{
+    float: right;
+    position: absolute;
+    margin-left: 90%;
+    margin-top: 50%;
+}
+
+h1{
+    
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 50%;
+    float: left;
+    font-size: 48px;
+    color: white;
+}
+
+#texto{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 80%;
+    float: left;
+    font-size: 16px;
+    color: white;
+}
