@@ -6,9 +6,16 @@
     left: 43px;
     width: 1320px;
     height: 115px;
-    z-index: -1;
-    border: 1px solid white; /* Adiciona uma borda branca de 1px */
+    z-index: -3;
+    border: 1px solid white; 
 
+}
+
+.container{
+    position: relative;
+    display: inline-flex;
+    gap: 100px;
+    left: 200px;
 }
 
 #logo{
@@ -55,10 +62,11 @@ body{
     background-color: rgb(255, 115, 26);
 }
 
+
 .inner-box{
     position: relative;
     background-color: transparent;
-    top: -11px;
+    top: -80px;
     left: -11px;
     border: 1px solid white;
     width: 115px;
