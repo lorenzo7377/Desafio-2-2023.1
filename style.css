@@ -2,12 +2,53 @@
     background-color: transparent;
     padding: 10px;
     position: absolute;
-    top: 30px;
-    width: 13200px;
-    height: 100px;
+    top: 36px;
+    left: 43px;
+    width: 1320px;
+    height: 115px;
     z-index: -1;
     border: 1px solid white; /* Adiciona uma borda branca de 1px */
 
+}
+
+#logo{
+    position: relative;
+    top: 17px;
+    left: 10px;
+}
+
+#wp{
+    position: absolute;
+    top: 1234px;
+    left: 37px;
+}
+
+#lkn{
+    position: absolute;
+    top: 1175px;
+    left: 37px;
+}
+
+#insta{
+    position: absolute;
+    top: 1116px;
+    left: 37px;
+}
+
+#o-email{
+    position: absolute;
+    top: 48px;
+    left: 1283px;
+}
+
+#emailtext{
+    color: white;
+    position: absolute;
+    top: 40px;
+    left: 1150px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 18px;
 }
 
 body{
@@ -17,9 +58,9 @@ body{
 .inner-box{
     position: relative;
     background-color: transparent;
-    top: -10px;
-    left: -10px;
-    border: 1px solid white; /* Adiciona uma borda branca de 1px */
-    width: 100px;
+    top: -11px;
+    left: -11px;
+    border: 1px solid white;
+    width: 115px;
     height: 1320px;
 }
