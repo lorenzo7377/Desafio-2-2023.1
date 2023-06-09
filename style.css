@@ -82,14 +82,14 @@ body{
 #foto{
     float: right;
     position: absolute;
-    left: 782px;
-    top: 368px  ;
+    left: 791px;
+    top: 397px  ;
 }
 
 h1{
     
     position: absolute;
-    left: 240px;
+    left: 352px;
     top: 404px;
     float: left;
     font-size: 48px;
@@ -98,7 +98,7 @@ h1{
 
 #texto{
     position: absolute;
-    left: 240px;
+    left: 352px;
     top: 651px;
     float: left;
     font-size: 16px;
