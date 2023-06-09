@@ -11,12 +11,43 @@
 
 }
 
-.container{
-    display: flex;
-    gap: 230px;
-    margin-left: 200px;
-    margin-top: 30px;
+#linker{
+    position: absolute;
+    top: 90px;
+    left: 230px;
+    font-weight: 400;
+    font-family: 'Montserrat';
+
 }
+
+#b1{
+    position: absolute;
+    left: 500px;
+    top: 90px;
+    color: white;
+    font-family: 'Montserrat';
+
+}
+
+#b2{
+    position: absolute;
+    left: 700px;
+    top: 90px;
+    color: white;
+    font-family: 'Montserrat';
+
+}
+
+#b3{
+    position: absolute;
+    left: 1200px;
+    top: 90px;
+    color: white;
+    font-weight: 700;
+    font-family: 'Montserrat';
+
+}
+
 
 #logo{
     position: relative;
@@ -65,10 +96,10 @@ body{
     font-weight: 400;
 }
 .inner-box{
-    position: relative;
+    position: absolute;
     background-color: transparent;
-    top: -110px;
-    left: -11px;
+    top: 0px;
+    left: 0px;
     border: 1px solid white;
     width: 115px;
     height: 1320px;
@@ -103,8 +134,4 @@ h1{
     float: left;
     font-size: 16px;
     color: white;
-}
-
-#mm{
-    background-color:blueviolet;
 }
