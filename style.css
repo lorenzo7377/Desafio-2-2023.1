@@ -14,8 +14,9 @@
 .container{
     position: absolute;
     display: flex;
-    gap: 10px;
+    gap: 240px;
     left: 200px;
+    top: 40px;
 }
 
 #logo{
@@ -59,7 +60,9 @@ body{
     background-color: rgb(255, 115, 26);
 }
 
-
+.blocos{
+    color: white;
+}
 .inner-box{
     position: relative;
     background-color: transparent;
