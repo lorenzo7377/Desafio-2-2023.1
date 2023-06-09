@@ -16,6 +16,7 @@
     top: 90px;
     left: 230px;
     font-weight: 400;
+    
     font-family: 'Montserrat';
 
 }
@@ -134,4 +135,158 @@ h1{
     float: left;
     font-size: 16px;
     color: white;
+}
+
+#box1{
+    position: absolute;
+    background-color: white;
+    border-radius: 20px;
+    width: 343px;
+    height: 344px;
+    left: 237px;
+    top: 229px;
+}
+
+#box_text1{
+    position: absolute;
+    top: 190px;
+    left: 23px;
+    text-align: center;
+}
+
+#box_title1{
+    position: absolute;
+    color: black;
+    top: 155px;
+    left: 110px;
+    font-size: 18px;
+}
+
+#celular{
+    position: absolute;
+    top: 76px;
+    left: 130px;
+}
+#box2{
+    position: absolute;
+    background-color: white;
+    border-radius: 20px;
+    width: 343px;
+    height: 344px;
+    left: 634px;
+    top: 229px;
+}
+
+#box_text2{
+    position: absolute;
+    top: 190px;
+    left: 23px;
+    text-align: center;
+}
+
+#box_title2{
+    position: absolute;
+    color: black;
+    top: 155px;
+    left: 110px;
+    font-size: 18px;
+}
+
+#web{
+    position: absolute;
+    top: 76px;
+    left: 130px;
+}
+
+#box3{
+    position: absolute;
+    background-color: white;
+    border-radius: 20px;
+    width: 343px;
+    height: 344px;
+    left: 1031px;
+    top: 229px;
+}
+
+#box_text3{
+    position: absolute;
+    top: 190px;
+    left: 25px;
+    text-align: center;
+}
+
+#box_title3{
+    position: absolute;
+    color: black;
+    top: 155px;
+    left: 140px;
+    font-size: 18px;
+}
+
+#rede{
+    position: absolute;
+    top: 76px;
+    left: 130px;
+}
+
+#box4{
+    position: absolute;
+    background-color: white;
+    border-radius: 20px;
+    width: 343px;
+    height: 344px;
+    left: 237px;
+    top: 612px;
+}
+
+#box_text4{
+    position: absolute;
+    top: 190px;
+    left: 25px;
+    text-align: center;
+}
+
+#box_title4{
+    position: absolute;
+    color: black;
+    top: 155px;
+    left: 140px;
+    font-size: 18px;
+}
+
+#consul{
+    position: absolute;
+    top: 76px;
+    left: 130px;
+}
+
+#box5{
+    position: absolute;
+    background-color: white;
+    border-radius: 20px;
+    width: 740px;
+    height: 344px;
+    left: 634px;
+    top: 612px;
+}
+
+#box_text5{
+    position: absolute;
+    top: 190px;
+    left: 65px;
+    text-align: center;
+}
+
+#box_title5{
+    position: absolute;
+    color: black;
+    top: 155px;
+    left: 245px;
+    font-size: 18px;
+}
+
+#premium{
+    position: absolute;
+    top: 86px;
+    left: 353px;
 }
